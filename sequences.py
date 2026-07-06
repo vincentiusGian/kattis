@@ -1,11 +1,5 @@
 # Written by Vincent
 
-# Observation -> ini soal math banget!!
-# Bakal dikasi k "?" sehingga ada len(s)-k angka pasti (0 atau 1)
-# ada 2^k kemungkinan sequences!???  
-
-
-
 MOD = int(1e9+7)
 
 s = input()
